@@ -1,20 +1,15 @@
 # Calculus
-A prompt library for calculus resources
-
-This folder consists of the following resources for teaching and learning calculus.
-
-   1. CALCBLUEBOT :robot:
-
-CALCBLUEBOT is a prompt template for generating a tutor, tuned to the Calculus BLUE Project materials for multivariable calculus.
-
-See the [Calculus Blue Playlist](https://www.youtube.com/@prof-g/playlists?view=50&sort=dd&shelf_id=2) on the [YouTube Channel](https://www.youtube.com/c/ProfGhristMath) for full video lectures.
+A prompt library for Data Fundamentals (H) at UoG, based on Robert Ghrist's Apache Licensed CALCBLUEBOT Template.
 
 ## Instructions:
-   In the CALCBLUEBOT text file, select all.
-   Copy and paste into your favorite LLM (large language model), preferably GPT-4 + Advanced Data Analysis.
-   Read the list of commands and engage with the tutor, following the Calculus BLUE Project syllabus.
+   In the DFHBOT text file, select all.
+   Copy and paste into your favorite LLM (large language model).
+   Read the list of commands and engage with the tutor.
 
-## Notes:
+---
+## Original notes and copyright notice
+
+## Notes from the original repository:
    This prompt template was tuned to OpenAI's GPT-4 with Advanced Data Analysis (formerly Code Interpreter) enabled.
    Using this prompt without Advanced Data Analysis is likely to lead to unstable results (and currently exceeds input length).
    The prompt text file will be updated frequently as test results come in. Please check back and use the latest version.

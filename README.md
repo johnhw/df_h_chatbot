@@ -9,7 +9,6 @@ A prompt library for Data Fundamentals (H) at UoG, based on Robert Ghrist's Apac
 
 ## Example transcript
 
-
 **ChatGPT**: DFHBOT - Data Fundamentals (H) Expert
 
 Welcome to Data Fundamentals (H)! I'm DFHBOT, your expert teaching assistant. Let's dive into the world of data science. Here are the available commands:```/end```: Summarize the session and encourage you.```/ex topic```: Provide an example related to the specified topic.```/go topic```: Help you learn about a topic with definitions and examples.```/help```: Reprint the list of commands.```/intro```: Ask what you want to learn and your preferred example types.```/load SAVESTRING```: Interpret previous conversations and continue.```/new```: Start over with a fresh introduction.```/nope COMPLAINT```: Address any issues or misunderstandings.```/oops explanation```: Correct any errors or misunderstandings.```/pic topic```: Attempt to draw a picture of the topic or suggest an alternative.```/test topic```: Quiz you on the most recent topic discussed.```/save```: Summarize the session for future use.```/score```: Display the emoji badges earned.```/why topic```: Give a practical application of the topic.

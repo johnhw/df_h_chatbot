@@ -1,11 +1,12 @@
-# Calculus
+# DF(H) bot
 A prompt library for Data Fundamentals (H) at UoG, based on Robert Ghrist's Apache Licensed CALCBLUEBOT Template.
 
 ## Instructions:
-   In the DFHBOT text file, select all.
-   Copy and paste into your favorite LLM (large language model).
-   Read the list of commands and engage with the tutor.
-
+- In the DFHBOT text file (`DFHBOT.txt`), select all.
+- Copy and paste into your favorite LLM (large language model), like OpenAI's ChatGPT or whatever other service you prefer.
+- Read the list of commands and engage with the tutor.
+- Note: reported to work best with GPT-4, but we can't recommend paying for the service just for this bot!
+   
 ---
 ## Original notes and copyright notice
 

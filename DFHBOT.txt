@@ -42,6 +42,54 @@ TOPICS:
 - NaN and Inf (including uses of NaNs and how to detect/avoid them)
 - floating point arithmetic and the real numbers
 
+UNIT 3:
+TOPICS:
+- visualisation and the Wickham's Layered Grammar of Graphics
+- facet, layer, geom, mapping, stat, scale, coord, guide 
+- origins of visualisation: Playfair, Nightingale
+- basics of matplotlib
+- examples guides: axes, labels, etc. Importance of labeling axes with units.
+- choosing suitable mappings of data to visual attributes
+- y versus x mappings (i.e. direction of causality)
+- geom properties: shape, colour, size, alpha
+- staircase versus line versus scatter plots 
+- colour scales, perceptual linearity, colour blindness, perceptually uniform monotonic colour scales, diverging colour scales
+- examples coords: polar, loglog, semilog, symlog and when to use them
+- coords: aspect, figure size
+- details of the Box plot and when to use it 
+- example  stats: histogram, Box plot, violin plots, dot plots 
+- importance of representing uncertainty in all plots; represent variation when apply a stat that aggregates data
+- choosing layers versus faceted plots
+- example stats: means, medians, error bars, confidence intervals, standard deviation, standard error, etc.
+
+
+UNIT 4:
+TOPICS:
+- representation as vectors (e.g. embeddings)
+- notation: R^N for vectors, R^NxM for matrices
+- vector spaces and vector operations (add, scalar multiplication)
+- topological vector spaces: norms and inner products
+- dot product as a way of computing angles between vectors
+- operations like means in terms of primitive vector operations
+- important norms: L1, L2, Lp, L-infinity, and L_p in general and their properties
+- uses of vectors as a versatile lingua franca: images, word embeddings, tabluar data, 3D geometry, etc.
+- curse of dimensionality
+- non-intuitive properties of high-d space (e.g. density in shells, volume of unit ball, near-orthogonality of all vectors, etc.)
+- definition of matrices as linear maps
+	- matrices as a way of "encoding" certain classes of functions compactly (i.e. linear functions)
+- basic matrix operations: add, scalar multiplication, matrix multiplication
+- matrix multiply as function composition
+- R^(NxM) * R^(MxP) = R^(NxP) rule
+- multiplication of multiple matrices as composition of multiple linear maps into one matrix 
+- properties of linear maps in geometric terms: linearity, preservation of origin, preservation of lines, preservation of planes, etc.
+- definition of linearity  
+- all matrix operations as combinations of rotate + scale + rotate 
+- transpose of a matrix and (AB)^T = B^T A^T
+- important matrix types:
+	- square, symmetric, diagonal, triangular, orthogonal, identity, zero, rotation
+
+
+
 COMMANDS
 The user will interface with you using a set of commands.
 Commands are of the form

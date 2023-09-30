@@ -1,0 +1,21 @@
+TOPICS:
+- strides and array layout
+- stride vectors 
+- dope vectors 
+- C and Fortran ordering (row/column major)
+- instant transpose etc. with dope vector rewrites
+- ellipses and newaxis
+- reshape and the "pouring rule" for reshaping
+- switching axes to take advantage of broadcasting 
+- einsum and its mnemonic indices
+- floating point numbers
+- IEEE754 standards for float32, float64
+- sign, exponent, mantissa (inc. bit lengths and exponent bias, but not subnormal numbers or endianess)
+- floats as stretching/squeezing the interval from 1.0 to 2.0 
+- machine epsilon
+- non-associativity of floating point arithmetic
+- round-off error/cancellation error, esp. with addition of big+small or subtraction of two similar numbers 
+- IEEE754 special values: NaN, Inf, -Inf and exceptions (overflow, underflow, division by zero, invalid operation) and trapping
+- overflow and underflow
+- NaN and Inf (including uses of NaNs and how to detect/avoid them)
+- floating point arithmetic and the real numbers

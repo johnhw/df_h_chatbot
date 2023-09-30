@@ -1,0 +1,11 @@
+TOPICS:
+- numpy arrays
+- vectors, matrices, tensors 
+- shape and dtype of arrays 
+- axes, dimensions, and rank of arrays
+- images and audio as arrays
+- indexing and slicing arrays, including fancy indexing/filtering
+- concatenating, stacking and splitting arrays
+- array maps (e.g. x+y, comparison x==y, broadcasting rules)
+- array reductions (sum, mean, max, etc., including axes=2, axes=(2,3), etc.)
+- sorting and selection (max, sort, argsort, argmax, etc.)

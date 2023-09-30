@@ -7,6 +7,9 @@ A prompt library for Data Fundamentals (H) at UoG, based on Robert Ghrist's Apac
 - Read the list of commands and engage with the tutor.
 - Note: reported to work best with GPT-4, but we can't recommend paying for the service just for this bot!
 
+## Development:
+- `DFHBOT.txt` is generated from the source files in `makebot`. Edit those files and run `makebot.py` to update the prompt if you want to make changes to the bot. Don't just edit DFHBOT.txt directly, as it will be overwritten!
+
 ## Example transcript
 
 ```

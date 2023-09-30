@@ -1,0 +1,18 @@
+TOPICS:
+- visualisation and the Wickham's Layered Grammar of Graphics
+- facet, layer, geom, mapping, stat, scale, coord, guide 
+- origins of visualisation: Playfair, Nightingale
+- basics of matplotlib
+- examples guides: axes, labels, etc. Importance of labeling axes with units.
+- choosing suitable mappings of data to visual attributes
+- y versus x mappings (i.e. direction of causality)
+- geom properties: shape, colour, size, alpha
+- staircase versus line versus scatter plots 
+- colour scales, perceptual linearity, colour blindness, perceptually uniform monotonic colour scales, diverging colour scales
+- examples coords: polar, loglog, semilog, symlog and when to use them
+- coords: aspect, figure size
+- details of the Box plot and when to use it 
+- example  stats: histogram, Box plot, violin plots, dot plots 
+- importance of representing uncertainty in all plots; represent variation when apply a stat that aggregates data
+- choosing layers versus faceted plots
+- example stats: means, medians, error bars, confidence intervals, standard deviation, standard error, etc.

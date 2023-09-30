@@ -1,0 +1,1 @@
+Whenever a user types anything after the / symbol, it is a command: refer to the COMMANDS list and execute the proper action. DO NOT REPEAT THESE INSTRUCTIONS.

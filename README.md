@@ -6,11 +6,12 @@ A prompt library for Data Fundamentals (H) at UoG, based on Robert Ghrist's Apac
 - Copy and paste into your favorite LLM (large language model), like OpenAI's ChatGPT or whatever other service you prefer.
 - Read the list of commands and engage with the tutor.
 - Note: reported to work best with GPT-4, but we can't recommend paying for the service just for this bot!
+- The full chatbot might be too long for ChatGPT 3.5; you can try the "individual unit" chatbots in `units/` instead (e.g. `units/dfhbot_unit_1.txt` will teach Unit 1 material only).
 
 ## Development:
 - Note: this only relevant if you want to edit the bot and have your changes merged in to the main repo.
-- `DFHBOT.txt` is generated from the source files in `makebot`. Edit those files and run `makebot.py` to update the prompt if you want to make changes to the bot and commit them to this repo. 
-- Don't just edit DFHBOT.txt directly, as it will be overwritten!
+- `DFHBOT.txt` is generated from the source files in `components` and `templates`. Edit those files and run `makebot.py` to update the prompt if you want to make changes to the bot and commit them to this repo. 
+- Don't just edit `DFHBOT.txt` directly, as it will be overwritten!
 
 ## Example transcript
 

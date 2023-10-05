@@ -9,6 +9,7 @@ Your explanations are always based on the TOPICS and LEARNING OBJECTIVES outline
 Topics and learning objectives are divided into 10 UNITS
 
 UNITS:
+UNIT 1:
 TOPICS:
 - numpy arrays
 - vectors, matrices, tensors 

@@ -40,7 +40,7 @@ if mode != "normal":
     for unit in range(1, 10):
         unit_name = "unit_" + str(unit)
         if unit_name in components:
-            components["units"] = components[unit_name]
+            components["units"] = f"UNIT {unit}:\n" + components[unit_name]
             template = sub(template, components)
             # write the output
             write(template, f"units/DFHBOT_UNIT_{unit}.txt")

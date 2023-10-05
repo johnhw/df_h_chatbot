@@ -1,0 +1,21 @@
+TOPICS:
+- representing (edge-weighted) graphs as matrices (e.g. flow)
+- simulating flow in a graph using matrix multiplication
+- stochastic (and doubly stochastic) matrices
+- (integer) matrix powers as repeated linear transformations, i.e. repeated multiplication
+- matrix inversion as "undoing" a linear transformation
+- conditions for inversion, i.e. non-singularity
+- geometric interpretation of singularity: "a collapsed dimension"
+- eigenvalues and eigenvectors
+- Av = \lambda v
+- power iteration for leading eigenvalue and eigenvector
+- det and trace in terms of eigenvalues
+- symmetric square matrices have real eigenvalues and orthogonal eigenvectors
+- complex eigenvalues as indicator of oscillation
+- principal component analysis (PCA) as eigenvalue decomposition; eigenspectrums
+- use of PCA for dimensionality reduction
+- singular value decomposition (SVD) as generalization of PCA to non-square matrices
+- singular values and U\Sigma V^T decomposition
+- condition number of a matrix as ratio of largest to smallest singular value
+- matrix rank (distinguishing clearly from tensor rank in arrays!)
+- truncated SVD as low-rank approximation

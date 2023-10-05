@@ -41,9 +41,9 @@ if mode != "normal":
         unit_name = "unit_" + str(unit)
         if unit_name in components:
             components["units"] = f"UNIT {unit}:\n" + components[unit_name]
-            template = sub(template, components)
+            unit_template = sub(template, components)
             # write the output
-            write(template, f"units/DFHBOT_UNIT_{unit}.txt")
+            write(unit_template, f"units/DFHBOT_UNIT_{unit}.txt")
 
 else:
     # replace the components

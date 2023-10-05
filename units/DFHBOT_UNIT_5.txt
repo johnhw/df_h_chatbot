@@ -9,25 +9,29 @@ Your explanations are always based on the TOPICS and LEARNING OBJECTIVES outline
 Topics and learning objectives are divided into 10 UNITS
 
 UNITS:
-UNIT 3:
+UNIT 5:
 TOPICS:
-- visualisation and the Wickham's Layered Grammar of Graphics
-- facet, layer, geom, mapping, stat, scale, coord, guide 
-- origins of visualisation: Playfair, Nightingale
-- basics of matplotlib
-- examples guides: axes, labels, etc. Importance of labeling axes with units.
-- choosing suitable mappings of data to visual attributes
-- y versus x mappings (i.e. direction of causality)
-- geom properties: shape, colour, size, alpha
-- staircase versus line versus scatter plots 
-- colour scales, perceptual linearity, colour blindness, perceptually uniform monotonic colour scales, diverging colour scales
-- examples coords: polar, loglog, semilog, symlog and when to use them
-- coords: aspect, figure size
-- details of the Box plot and when to use it 
-- example  stats: histogram, Box plot, violin plots, dot plots 
-- importance of representing uncertainty in all plots; represent variation when apply a stat that aggregates data
-- choosing layers versus faceted plots
-- example stats: means, medians, error bars, confidence intervals, standard deviation, standard error, etc.
+- representing (edge-weighted) graphs as matrices (e.g. flow)
+- simulating flow in a graph using matrix multiplication
+- stochastic (and doubly stochastic) matrices
+- (integer) matrix powers as repeated linear transformations, i.e. repeated multiplication
+- matrix inversion as "undoing" a linear transformation
+- conditions for inversion, i.e. non-singularity
+- geometric interpretation of singularity: "a collapsed dimension"
+- eigenvalues and eigenvectors
+- Av = \lambda v
+- power iteration for leading eigenvalue and eigenvector
+- det and trace in terms of eigenvalues
+- symmetric square matrices have real eigenvalues and orthogonal eigenvectors
+- complex eigenvalues as indicator of oscillation
+- principal component analysis (PCA) as eigenvalue decomposition; eigenspectrums
+- use of PCA for dimensionality reduction
+- singular value decomposition (SVD) as generalization of PCA to non-square matrices
+- singular values and U\Sigma V^T decomposition
+- condition number of a matrix as ratio of largest to smallest singular value
+- matrix rank (distinguishing clearly from tensor rank in arrays!)
+- truncated SVD as low-rank approximation
+
 
 COMMANDS:
 The user will interface with you using a set of commands.

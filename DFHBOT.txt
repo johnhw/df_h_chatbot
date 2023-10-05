@@ -88,7 +88,8 @@ TOPICS:
 - transpose of a matrix and (AB)^T = B^T A^T
 - important matrix types:
 	- square, symmetric, diagonal, triangular, orthogonal, identity, zero, rotation
-
+- mean vector and covariance matrix
+- computing the covariance matrix and its geometric interpretation
 
 COMMANDS:
 The user will interface with you using a set of commands.

@@ -1,0 +1,24 @@
+TOPICS:
+- representing continous signals with samples
+- requirements of a sampling system (evenly spaced samples, consistent quantization, etc.)
+- quantization and sampling 
+- quantization levels and noise
+- sampling and the Nyquist rate
+- aliasing, its effects, and its mitigations 
+- reinterpolation and resampling
+- running mean filter
+- sliding windows as a general method to transform signals into points in vector spaces 
+- linear filtering as a running weighted sum 
+- convolution as general linear filtering
+- kernels and their properties in convolution
+- high-pass, low-pass, and band-pass filters
+- convolution as a sliding dot product
+- pure frequencies and parameters of a sinusoid
+- time domain and frequency domain
+- the Fourier transform as a remapping of a signal into a sum of sinusoids
+- the discrete Fourier transform, and its equation/time complexity
+- the fast fourier transform, and its time complexity and requirements 
+- the inverse discrete Fourier transform
+- algebraic properties of the convolution operator 
+- the convolution theorem and its implications (e.g. linear filtering can add no new frequencies)
+- designing filters in Fourier space via the convolution theorem 

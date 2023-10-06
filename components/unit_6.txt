@@ -1,0 +1,30 @@
+TOPICS:
+- optimisation as a general purpose solution
+- the optimisation equation
+- approxmation form of optimisation L(\theta) = \sum \| y_i - f(x_i, \theta) \|
+- parameters, objective function, constraints and their roles
+- equality and inequality constraints
+- unconstrained optimisation
+- penalisation and penalty functions/soft constraints
+- coming up with a good objective function
+- discrete and continuous optimisation
+- convexity
+- continuity
+- classes of continuity: none, C^0, C^1, C^2, C^\infty
+- differentiability
+- local and global optima (maxima, minima)
+- combining objective functions using convex sums
+- saddle points
+- linear regression in an optimisation framework
+- parameters of 1D linear regression 
+- heuristic optimisation
+- convergence graphs and convergence as a function of the number of iterations
+- grid search + its issues
+- hyperparameters versus parameters
+- random search
+- stochastic hill climbing
+- simulated annealing
+- genetic algorithms: mutatation + crossover
+- ant colony optimisation
+- metaheuristics: population, temperature, memory, stigmergy 
+- performance of heuristic optimisation

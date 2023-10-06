@@ -1,0 +1,20 @@
+TOPICS:
+- issues with continuous random variables 
+- support; compact and infinite 
+- probability density function (pdf) and meaning of density versus probability
+- cumulative distribution function (cdf) and its use 
+- uniform distribution, including linear transforms 
+- normal distribution, including PDF and common properties
+- multivariate distributions -- distributions over real vector spaces 
+- marginalisation and conditioning in multivariate distributions
+- multivariate normal including linear transforms as interpretation of mean + covariance
+- interpretation of covariance matrix 
+- samples and population 
+- inference as recovering the state of an unknown entity from observations
+- samples, observations and likelihood 
+- maximum likelihood estimation (MLE)
+- inference as optimisation
+- direct estimation of parameters from data
+- Bayesian inference and posterior distribution
+- probabilistic programming as a way of encoding Bayesian models
+- advantages and disadvantages of Bayesian inference 

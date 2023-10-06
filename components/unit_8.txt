@@ -1,0 +1,22 @@
+TOPICS:
+- probability as a method for reasoning about uncertainty
+- random variables, outcomes, events, and probability distributions
+- P(X=x) notation
+- probability mass functions (PMFs) and probability density functions (PDFs)
+- continuous and discrete random variables
+- axioms of probability: unitarity, non-negativity, and additivity (sum rule)
+- definition of conditional probability
+- forward and inverse probability
+- Bayesian versus frequentist interpretations of probability
+- Bayes' rule; posterior, prior, likelihood, evidence
+- integration over the evidence in Bayes' Rule
+- likelihood and the likelihood function; log-likelihood as a numerical convenience
+- joint and marginal probability distributions
+- independence and product rule for independent events
+- expectation of a random variable
+- entropy of a discrete random variable
+- Log probs, logits and odds
+- estimating probabilities from data and the empirical distribution
+- sampling from a distribution, and sampling algorithm for discrete PMFs
+- approximate expectation by Monte Carlo sampling
+- bigrams/n-gram models and conditional probability distributions

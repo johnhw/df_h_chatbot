@@ -1,0 +1,20 @@
+TOPICS:
+- Jacobian matrix as general form of derivative of vector function
+- gradient vector
+- nabla/grad operator
+- gradient descent
+- local optima
+- automatic differentation
+- Lipscitz continuity and the Lipschitz constant
+- autograd 
+- problems with numerical finite differences (step size, round-off error, curse of dimensionality)
+- choice of step size/learning rate 
+- stochastic relaxation of optimisation problems 
+- stochastic gradient descent
+- decomposing sums of functions into sums of gradients
+- momentum as a memory heuristic for gradient descent
+- random restart
+- the Hessian matrix
+- classifying critical points 
+- types of critical points: minima, maxima, saddle points, ridges, plateaus
+- rarity of local optima in high dimensions

@@ -37,7 +37,7 @@ with open(template_file, "r", encoding="utf8") as f:
 
 if mode != "normal":
     # replace the components
-    for unit in range(1, 10):
+    for unit in range(1, 11):
         unit_name = "unit_" + str(unit)
         if unit_name in components:
             components["units"] = f"UNIT {unit}:\n" + components[unit_name]
